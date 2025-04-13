@@ -8,21 +8,22 @@ Campus Bridge is a full-stack web application designed to integrate essential fe
 . *Frontend*: React.js, Tailwind CSS
 . *Backend*: Node.js, Express.js
 . *Authentication* : Firebase/Auth0
-
-# collaboration Tools: (for real-time code editor & chat)
+.  collaboration Tools: vs code ,bolt ai (for real-time code editor & chat)
 
 # Project Explanation:
-(Provide this content in the README.md file of your GitHub repository.)
+ .Key Features:
+ 
+Centralized course and academic management:
 
-# Key Features:
-Centralized course and academic management
-
-# Coding IDE with real-time collaboration
+. Coding IDE with real-time collaboration
 
 AI assistant for solving doubts, suggesting code improvements
 
-# Attendance & grading automation
+. Attendance & grading automation:
 
 Secure login and role-based dashboards for students and faculty
-
+.Facutly upload teaching content:
+Facutly should upload day to day class daily teaching content
+.coding platform:
+ it contains daily problem statements and daily streak also can earn weakly badges.
 
