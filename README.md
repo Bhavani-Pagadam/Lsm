@@ -25,5 +25,4 @@ AI assistant for solving doubts, suggesting code improvements
 
 Secure login and role-based dashboards for students and faculty
 
-Screenshots:
-(Add relevant screenshots like: homepage, student dashboard, code editor, AI chat window, etc.)
+
